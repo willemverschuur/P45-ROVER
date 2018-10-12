@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/willemverschuur/P45-ROVER#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
     "readline": "^1.3.0",
     "readline-sync": "^1.4.9"
   }
