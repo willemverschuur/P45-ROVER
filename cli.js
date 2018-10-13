@@ -43,4 +43,5 @@ else
 var roversimulation = require('./lib/roversimulation.js');
 roversimulation.processInstructions(instructions);
 console.log(roversimulation._output);
+console.log(roversimulation._exceptions);
 

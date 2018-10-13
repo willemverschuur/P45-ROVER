@@ -2,11 +2,7 @@
 
 1 2 N
 
-MLMLMLMM
-
-1 2 N
-
-MLMLMLMM
+LMLMLMLMM
 
 3 3 E
 
